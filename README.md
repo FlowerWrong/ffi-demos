@@ -80,3 +80,4 @@ ruby cal.rb # => "sum 1 and 3 is 4"
 #### Reference
 
 * [shared-libraries-linux-gcc](http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html)
+* [ruby-ffi wiki](https://github.com/ffi/ffi/wiki)
