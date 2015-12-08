@@ -1,5 +1,9 @@
 ## ruby ffi example
 
+#### What is ffi?
+
+A foreign function interface (FFI) is a mechanism by which a program written in one programming language can call routines or make use of services written in another. See more [here](https://en.wikipedia.org/wiki/Foreign_function_interface)
+
 #### Generate .so shared lib
 
 ```c
@@ -80,4 +84,5 @@ ruby cal.rb # => "sum 1 and 3 is 4"
 #### Reference
 
 * [shared-libraries-linux-gcc](http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html)
+* [what is ffi?](https://en.wikipedia.org/wiki/Foreign_function_interface)
 * [ruby-ffi wiki](https://github.com/ffi/ffi/wiki)
